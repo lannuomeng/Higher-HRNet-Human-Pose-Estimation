@@ -10,7 +10,8 @@ from __future__ import division
 from __future__ import print_function
 
 import numpy as np
-
+#test
+#test
 
 class HeatmapGenerator():
     def __init__(self, output_res, num_joints, sigma=-1):
